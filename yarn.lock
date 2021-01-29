@@ -813,6 +813,9 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@bscswap/contracts@../contracts":
+  version "1.0.2"
+
 "@bscswap/contracts@1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@bscswap/contracts/-/contracts-1.0.2.tgz#c6d639a43018bec808be02004c6a103b923fd604"
